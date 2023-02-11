@@ -1,12 +1,13 @@
-<HMTL>
-<HEAD>
+<!DOCTYPE html>
+<html>
+<head>
 <title>Computational Civil Engineering & Construction Club</title>
-</HEAD>
-<BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
+</head>
+<body BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
 <TABLE WIDTH="75%" ALIGN="center">
 <TR>
 <TD>
-<DIV ALIGN="center"><IMG SRC="" ALT="ccec_logo"></DIV>
+<!-- <DIV ALIGN="center"><IMG SRC="" ALT="ccec_logo"></DIV> -->
 
 <P> &nbsp; </P>
 <DIV ALIGN="justify">
@@ -21,5 +22,5 @@ Computational Civil Engineering & Construction Club is intended to bring togethe
 </TD>
 </TR>
 </TABLE>
-</BODY>
-</HTML>
+</body>
+</html>
