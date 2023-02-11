@@ -1,12 +1,12 @@
 <HMTL>
 <HEAD>
-<TITLE>Computational Civil Engineering & Construction Club</TITLE>
+<title>Computational Civil Engineering & Construction Club</title>
 </HEAD>
 <BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
 <TABLE WIDTH="75%" ALIGN="center">
 <TR>
 <TD>
-<DIV ALIGN="center"><IMG SRC="textasimage.gif" ALT="THE WORD IMAGES"></DIV>
+<DIV ALIGN="center"><IMG SRC="" ALT="ccec_logo"></DIV>
 
 <P> &nbsp; </P>
 <DIV ALIGN="justify">
